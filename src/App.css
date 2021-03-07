@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+ padding: 100px; 
+border-radius: 200px;
+  
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  -webkit-transition: all (1s) ease;
+    -moz-transition: all (1s)  ease;
+    -o-transition: all (1s)s ease;
+      -ms-transition: all (1s) ease;
+    transition: all (1s)  ease;
+  transform: translate(-50%, -50%);    
+}
+.button{
+background-color: #ffffff;
+border: none;
+color: rgb(0, 0, 0);
+padding: 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+border-radius: 12px;
+}
+
+
+
+
+
+
